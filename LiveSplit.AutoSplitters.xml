@@ -22,6 +22,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Donkey Kong Country</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/JPdev-Github/Livesplit-Autosplitter-DKC/blob/main/LiveSplit.DKC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter written by JP_dev.</Description>
+    </AutoSplitter>    
+    <AutoSplitter>
+        <Games>
             <Game>DEAD RISING 3</Game>
         </Games>
         <URLs>

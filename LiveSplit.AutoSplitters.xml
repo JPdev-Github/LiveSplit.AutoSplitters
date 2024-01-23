@@ -20773,6 +20773,6 @@
             <URL>https://github.com/JPdev-Github/Livesplit.Endling.Asl/raw/main/Livesplit.Endling.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart, Autosplitter and Load Remover by jp_dev</Description>
+        <Description>Autostart, Autosplitter and Load Remover by jp_dev. Requires the LivesplitHelper Mod found in the community discord.</Description>
     </AutoSplitter>
 </AutoSplitters>
